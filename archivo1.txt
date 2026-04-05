@@ -1,4 +1,6 @@
 Este es mi archibo inicial
 
 
-Modificacion desde github
+Modificacion desde GitHub
+
+Cambio realizado en el local
