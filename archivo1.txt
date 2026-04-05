@@ -1,6 +1,12 @@
 Este es mi archibo inicial
 
 
+
 Modificacion desde GitHub
 
 Cambio realizado en el local
+
+Modificacion desde github
+
+Cambio Realizado en github (rama main)
+
